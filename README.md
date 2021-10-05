@@ -1,14 +1,13 @@
-### Olá sou o Wesdras 👋
+## Olá sou o Wesdras 👋
 
 # Sobre mim - About Me
 
-> Em resumo apaixonado por tecnologia, inovação e educação. Acredito que a educação é uma das ferramentas mais poderosas de trasformação.
+Em resumo apaixonado por tecnologia, inovação e educação. Acredito que a educação é uma das ferramentas mais poderosas de trasformação.
 
->>"Ensinar exige compreender que a educação é a forma de mudar o mundo". - Paulo Freire
+"Ensinar exige compreender que a educação é a forma de mudar o mundo". - Paulo Freire
 
-- 👨‍💻 Squad Leader de Comunidade  **Code Club Brasil**.
-- 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 6° semestre.
-- 🎯 Interesse: JavaScript, React, React Native, HTML, CSS, JavaScript e C# 
+- 👨‍💻 Squad Leader de Comunidade no **Code Club Brasil**.
+- 🎯 Interesse: JavaScript, React, React Native, HTML, CSS, NextJS, TypeScript e C# 
 - 🎮 Apaixonado por boad games 
 
 <div align="center">
@@ -18,18 +17,19 @@
 
 </div>
 
+# Mais Detalhes - More Details 💻
 <div align="center">
 
-# Mais Detalhes - More Details 💻
-
 ![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=wesdrasalves&layout=compact&theme=radical&langs_count=20)
-![resume](https://github-readme-stats.vercel.app/api?disable_animations=false&username=wesdrasalves&show_icons=true&theme=merko)
-
-**Conquistas - Trophies** \
-![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=wesdrasalves&column=7&theme=gruvbox)
+![resume](https://github-readme-stats.vercel.app/api?disable_animations=false&username=wesdrasalves&show_icons=true&theme=radical)
 
 </div>
 
+
+<!--
+**Conquistas - Trophies** \
+![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=wesdrasalves&column=7&theme=gruvbox)
+-->
 
 ## Skills :nerd_face:
 <p align="center">
