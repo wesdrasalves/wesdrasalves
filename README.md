@@ -1,16 +1,73 @@
-### Hi there 👋
+### Olá sou o Wesdras 👋
 
-<!--
-**wesdrasalves/wesdrasalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre mim
 
-Here are some ideas to get you started:
+> Em resumo apaixonado por tecnologia, inovação e educação. Acredito que a educação é uma das ferramentas mais podersas de trasformação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>>"Ensinar exige compreender que a educação é a forma de mudar o mundo". - Paulo Freire
+
+- 👨‍💻 Squad Leader de Comunidade  **Code Club Brasil**.
+- 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 6° semestre.
+- 🎯 Interesse: JavaScript, React, React Native, HTML, CSS, JavaScript, C# e Docker . 
+- 🎮 Amande de jogos, 
+
+<div align="center">
+
+<a href="https://www.instagram.com/wesdras.alves/"><img src="https://img.shields.io/twitter/url?label=instagram&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fwesdras.alves%2F">
+<a href="https://www.facebook.com/paulo1pessoa/"><img src="https://img.shields.io/twitter/url?label=facebook&logo=facebook&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fpaulo1pessoa%2F"></a>
+<a href="https://www.behance.net/mr-cerebro"><img src="https://img.shields.io/twitter/url?label=behance&logo=behance&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.behance.net%2Fmr-cerebro"></a>
+<a href="https://www.linkedin.com/in/wesdrasalves/"><img src="https://img.shields.io/twitter/url?label=LinkendIn&logo=LinkendIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwesdrasalves%2F"></a>
+<a href="https://app.rocketseat.com.br/me/paulo-pessoa-02219"><img src="https://img.shields.io/twitter/url?label=Rocketseat&logo=Rocketseat&style=for-the-badge&url=https%3A%2F%2Fapp.rocketseat.com.br%2Fme%2Fpaulo-pessoa-02219"></a>
+
+</div>
+
+<div align="center">
+
+# Mais Detalhes - More Details 💻
+
+**Linguagens dominantes** \
+![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=wesdrasalves&layout=compact&theme=radical&langs_count=20)
+
+**Meu resumo do GitHub** \
+![resume](https://github-readme-stats.vercel.app/api?disable_animations=false&username=wesdrasalves&show_icons=true&theme=merko)
+  
+**Meu estado de sequência no GitHub** \
+![streak-status](https://github-readme-streak-stats.herokuapp.com/?user=wesdrasalves&theme=neon-dark)
+
+**Conquistas - Trophies** \
+![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=wesdrasalves&column=7&theme=gruvbox)
+
+</div>
+
+
+## Skills :nerd_face:
+<p align="center">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" >
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="ccs3">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
+    
+</p>
+
+## Contact :iphone:
+
+<p align="center">
+    <a href="https://github.com/wesdrasalves">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/wesdrasalves">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/wesdrasalves">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/wesdrasalves/">
+    </a>
+</p>
