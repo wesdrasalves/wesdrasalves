@@ -1,23 +1,20 @@
 ### Olá sou o Wesdras 👋
 
-# Sobre mim
+# Sobre mim - About Me
 
-> Em resumo apaixonado por tecnologia, inovação e educação. Acredito que a educação é uma das ferramentas mais podersas de trasformação.
+> Em resumo apaixonado por tecnologia, inovação e educação. Acredito que a educação é uma das ferramentas mais poderosas de trasformação.
 
 >>"Ensinar exige compreender que a educação é a forma de mudar o mundo". - Paulo Freire
 
 - 👨‍💻 Squad Leader de Comunidade  **Code Club Brasil**.
 - 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 6° semestre.
-- 🎯 Interesse: JavaScript, React, React Native, HTML, CSS, JavaScript, C# e Docker . 
-- 🎮 Amande de jogos, 
+- 🎯 Interesse: JavaScript, React, React Native, HTML, CSS, JavaScript e C# 
+- 🎮 Apaixonado por boad games 
 
 <div align="center">
 
 <a href="https://www.instagram.com/wesdras.alves/"><img src="https://img.shields.io/twitter/url?label=instagram&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fwesdras.alves%2F">
-<a href="https://www.facebook.com/paulo1pessoa/"><img src="https://img.shields.io/twitter/url?label=facebook&logo=facebook&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fpaulo1pessoa%2F"></a>
-<a href="https://www.behance.net/mr-cerebro"><img src="https://img.shields.io/twitter/url?label=behance&logo=behance&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.behance.net%2Fmr-cerebro"></a>
 <a href="https://www.linkedin.com/in/wesdrasalves/"><img src="https://img.shields.io/twitter/url?label=LinkendIn&logo=LinkendIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwesdrasalves%2F"></a>
-<a href="https://app.rocketseat.com.br/me/paulo-pessoa-02219"><img src="https://img.shields.io/twitter/url?label=Rocketseat&logo=Rocketseat&style=for-the-badge&url=https%3A%2F%2Fapp.rocketseat.com.br%2Fme%2Fpaulo-pessoa-02219"></a>
 
 </div>
 
@@ -25,14 +22,8 @@
 
 # Mais Detalhes - More Details 💻
 
-**Linguagens dominantes** \
 ![softskils](https://github-readme-stats.vercel.app/api/top-langs/?username=wesdrasalves&layout=compact&theme=radical&langs_count=20)
-
-**Meu resumo do GitHub** \
 ![resume](https://github-readme-stats.vercel.app/api?disable_animations=false&username=wesdrasalves&show_icons=true&theme=merko)
-  
-**Meu estado de sequência no GitHub** \
-![streak-status](https://github-readme-streak-stats.herokuapp.com/?user=wesdrasalves&theme=neon-dark)
 
 **Conquistas - Trophies** \
 ![trophies](https://github-profile-trophy.vercel.app/?custom_title=&username=wesdrasalves&column=7&theme=gruvbox)
