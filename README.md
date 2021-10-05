@@ -2,7 +2,7 @@
 
 # Sobre mim - About Me
 
-Em resumo apaixonado por tecnologia, inovação e educação. Acredito que a educação é uma das ferramentas mais poderosas de trasformação.
+Em resumo apaixonado por tecnologia, inovação e educação. Acredito que a educação é uma das ferramentas mais poderosas na transformação de uma nação.
 
 "Ensinar exige compreender que a educação é a forma de mudar o mundo". - Paulo Freire
 
