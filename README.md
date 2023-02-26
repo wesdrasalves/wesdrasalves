@@ -6,8 +6,8 @@ Em resumo apaixonado por tecnologia, inovação e educação. Acredito que a edu
 
 "Ensinar exige compreender que a educação é a forma de mudar o mundo". - Paulo Freire
 
-- 👨‍💻 Squad Leader de Comunidade no **Code Club Brasil**.
-- 🎯 Interesse: Cyber Segurança, JavaScript, React, HTML, CSS, NextJS, TypeScript e C# 
+- 👨‍💻 Tech Leader **Code Club Brasil**.
+- 🎯 Interesse: Cyber Segurança, JavaScript, HTML, CSS, Python, TypeScript e C# 
 - 🎮 Apaixonado por boad games 
 
 <div align="center">
